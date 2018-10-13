@@ -1,6 +1,6 @@
 # FriendFinder
 
-This application is essentially a non-creepy friend pairing service. [**Here**](https://friendfinder0000.herokuapp.com//) is the link to the app on heroku.
+This application is essentially a non-creepy friend pairing service. [**Here**](https://friendfinder0000.herokuapp.com/) is the link to the app on heroku.
 
 ## Setup
 
